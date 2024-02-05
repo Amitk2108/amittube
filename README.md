@@ -1,6 +1,6 @@
 <h1 align="center" id="title">Youtube Clone</h1>
 
-<p id="description">"clone YoutubeTube is an engaging video-Streaming platform where users can seamlessly Play Video discover and Search captivating videos. With a user-friendly interface the platform offers a diverse range of content from entertaining clips to informative videos.</p>
+<p id="description">"Youtube Clone is an engaging video-Streaming platform where users can seamlessly Play Video discover and Search captivating videos. With a user-friendly interface the platform offers a diverse range of content from entertaining clips to informative videos.</p>
 
 <h2>🚀 Demo</h2>
 
